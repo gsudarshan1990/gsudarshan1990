@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Govindarajan</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 
-- 🔭 I’m currently working on **Savvas**
+- 🔭 I’m currently working on **Throughput**
 
 - 📫 How to reach me **sudarshan.suraj2007@gmail.com**
 
