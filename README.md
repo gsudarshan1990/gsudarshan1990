@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 
 
-[![](https://raw.githubusercontent.com/gsudarshan1990/gsudarshan1990/master/profile-summary-card-output/gruvbox/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/gsudarshan1990/gsudarshan1990/master/profile-summary-card-output/highcontrast/0-profile-details.svg)
 ![](https://github-readme-stats.vercel.app/api?username=gsudarshan1990&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gsudarshan1990&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudarshan1990&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
