@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsudarshan1990&theme=github_dark" alt="Your Name's GitHub Stats"/>
 </div>
