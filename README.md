@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 GitHub Stats:
-
-
-![](https://raw.githubusercontent.com/gsudarshan1990/gsudarshan1990/master/profile-summary-card-output/highcontrast/0-profile-details.svg)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsudarshan1990&theme=github_dark" alt="Your Name's GitHub Stats"/>
+</div>
 ![](https://github-readme-stats.vercel.app/api?username=gsudarshan1990&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gsudarshan1990&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudarshan1990&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
