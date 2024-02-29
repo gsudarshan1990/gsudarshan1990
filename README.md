@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gsudarshan1990&theme=github_dark" alt="Your Name's GitHub Stats"/>
 </div>
+
+
+
+
 ![](https://github-readme-stats.vercel.app/api?username=gsudarshan1990&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gsudarshan1990&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gsudarshan1990&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
