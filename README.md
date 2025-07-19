@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Sudarshan Govindarajan</h1>
 <h3 align="center">A passionate Automation Tester from India</h3>
 
-- 🔭 I’m currently working on **BOFA**
+- 🔭 I’m currently working on **ACCENTURE**
 
 - 📫 How to reach me **sudarshan.suraj2007@gmail.com**
 
