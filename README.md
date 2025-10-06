@@ -7,9 +7,12 @@
 
 - 🔭 I’m currently working on **ACCENTURE**
 
-- 📫 How to reach me **sudarshan.suraj2007@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:
+</h3>
+<h6>- 📫 How to reach me **sudarshan.suraj2007@gmail.com**</h6>
+
 <p align="left">
 </p>
 
@@ -33,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 # 📊 GitHub Stats:
 
 <div align="center">
